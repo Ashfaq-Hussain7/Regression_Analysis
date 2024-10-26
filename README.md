@@ -1,3 +1,5 @@
 # Regression Analysis:
 
-1. Plotting Error Surface of A Dataset Generated Randomly Using an Interval.
+1. Plotting Error Surface Of A Dataset Generated Randomly Using An Interval.
+
+2. Types Of Gradient Descent Along With Their Rescpective Error Surfaces
